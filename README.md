@@ -1,2 +1,5 @@
 # digital-FullStack
-Exercícios do Curso Java Digital-House
+
+Todo o material desenvolvido no Curso FullStack
+
+Exercicíos e Desafios Proposto

@@ -27,6 +27,8 @@ public class Exercicio {
 		
 		salario.aumentaSalario(porcentagem);
 		System.out.println("Empregado: "+salario.nome+" Salário Líquido R$: "+salario.salarioBruto);
+		
+		sc.close();
 	}
 
 }

@@ -4,7 +4,6 @@
     <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
     <fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="java.util.Locale"/>
     <fullyQualifiedTypeName name="java.time.DayOfWeek"/>
     <fullyQualifiedTypeName name="java.time.Month"/>
     <fullyQualifiedTypeName name="java.text.DateFormat"/>
@@ -13,6 +12,17 @@
     <fullyQualifiedTypeName name="java.time.format.DateTimeFormatter"/>
     <fullyQualifiedTypeName name="geometria.Triangulo"/>
     <fullyQualifiedTypeName name="estoque.Produto"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="retangulo.Retangulo"/>
+    <fullyQualifiedTypeName name="sun.tools.java.Scanner"/>
+    <fullyQualifiedTypeName name="geometria.Circuferencia"/>
+    <fullyQualifiedTypeName name="produtos.Produtos"/>
+    <fullyQualifiedTypeName name="banco.Conta"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="contato.Contato"/>
+    <fullyQualifiedTypeName name="endereco.Endereco"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="contatos.Contato"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>

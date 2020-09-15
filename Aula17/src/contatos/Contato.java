@@ -76,7 +76,7 @@ public class Contato {
 		estado = scn.nextLine();
 		contatos.add(new Contato(id, nome, idade, telefone, new Endereco(rua, numero, bairro, cidade, estado)));
 		System.out.println("\n~CONTATO ADICIONADO COM SUCESSO!!!\n");
-		scn.close();
+		
 	}
 	public static void remover(int n, List<Contato> contatos) {
 		Scanner scn = new Scanner(System.in);
@@ -96,7 +96,7 @@ public class Contato {
 		} else {
 			System.out.println("\n~CADASTRE UM CONTATO PRIMEIRO!!!\n");
 		}
-		scn.close();
+		
 	}
 	public static void listar(int n, List<Contato> contatos) {
 		Scanner scn = new Scanner(System.in);
@@ -109,12 +109,12 @@ public class Contato {
 		} else {
 			System.out.println("\n~CADASTRE UM CONTATO PRIMEIRO!!!\n");
 		}
-		scn.close();
+		
 	}
 	public static void buscar(int n, List<Contato> contatos) {
 		Scanner scn = new Scanner(System.in);
 		if (n != 0) {
-			System.out.println("\n.:: PESQUISAR CONTATO ::.");
+			System.out.println("\n.:: PESQUISAR CONTATO ::.\n");
 			System.out.print("DIGITE O ID: ");
 			int id = scn.nextInt();
 			for (Contato contato : contatos) {
@@ -127,7 +127,7 @@ public class Contato {
 		} else {
 			System.out.println("\n~CADASTRE UM CONTATO PRIMEIRO!!!\n");
 		}
-		scn.close();
+		
 	}
 	@Override
 	public String toString() {

@@ -2135,3 +2135,266 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact antlr:antlr:j
 2020-09-23 20:20:43,605 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-09-23 20:20:43,608 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-09-23 20:20:43,609 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Desktop\Digital House\digital-FullStack\digitalhouse-agenda\src\test\resources
+2020-09-25 21:08:43,952 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-09-25 21:11:16,149 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:11:16,161 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 21:11:16,204 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 21:11:16,210 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:11:16,210 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\src\test\resources
+2020-09-25 21:11:21,679 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:11:21,702 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 21:11:21,984 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 21:11:21,993 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:11:21,994 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\src\test\resources
+2020-09-25 21:11:51,276 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:11:51,279 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 21:11:51,283 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 21:11:51,286 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:11:51,287 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\src\test\resources
+2020-09-25 21:12:01,876 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:12:01,878 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 21:12:01,882 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 21:12:01,886 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:12:01,886 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\src\test\resources
+2020-09-25 21:25:47,257 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:25:47,325 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 21:25:47,356 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 21:25:47,362 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:25:47,362 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\src\test\resources
+2020-09-25 21:45:22,718 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-25 21:46:13,483 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.digitalhouse:digitalhouse-loja:0.0.1-SNAPSHOT @ C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\pom.xml.
+2020-09-25 21:46:15,830 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.pom
+2020-09-25 21:46:16,165 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.pom
+2020-09-25 21:46:16,332 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/6.1.5.Final/hibernate-validator-6.1.5.Final.pom
+2020-09-25 21:46:16,491 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/6.1.5.Final/hibernate-validator-6.1.5.Final.pom
+2020-09-25 21:46:16,649 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator-parent/6.1.5.Final/hibernate-validator-parent-6.1.5.Final.pom
+2020-09-25 21:46:16,985 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator-parent/6.1.5.Final/hibernate-validator-parent-6.1.5.Final.pom
+2020-09-25 21:46:17,168 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.1.11.Final/arquillian-bom-1.1.11.Final.pom
+2020-09-25 21:46:17,330 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.1.11.Final/arquillian-bom-1.1.11.Final.pom
+2020-09-25 21:46:17,484 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.3/shrinkwrap-bom-1.2.3.pom
+2020-09-25 21:46:17,640 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.3/shrinkwrap-bom-1.2.3.pom
+2020-09-25 21:46:17,801 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.0/shrinkwrap-resolver-bom-2.2.0.pom
+2020-09-25 21:46:17,954 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.0/shrinkwrap-resolver-bom-2.2.0.pom
+2020-09-25 21:46:18,112 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-8/shrinkwrap-descriptors-bom-2.0.0-alpha-8.pom
+2020-09-25 21:46:18,271 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-8/shrinkwrap-descriptors-bom-2.0.0-alpha-8.pom
+2020-09-25 21:46:18,432 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.pom
+2020-09-25 21:46:18,589 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.pom
+2020-09-25 21:46:18,747 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator-annotation-processor/6.1.5.Final/hibernate-validator-annotation-processor-6.1.5.Final.pom
+2020-09-25 21:46:18,899 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator-annotation-processor/6.1.5.Final/hibernate-validator-annotation-processor-6.1.5.Final.pom
+2020-09-25 21:46:19,315 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar
+2020-09-25 21:46:19,457 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator-annotation-processor/6.1.5.Final/hibernate-validator-annotation-processor-6.1.5.Final.jar
+2020-09-25 21:46:19,457 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.jar
+2020-09-25 21:46:19,502 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/6.1.5.Final/hibernate-validator-6.1.5.Final.jar
+2020-09-25 21:46:19,898 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar
+2020-09-25 21:46:20,009 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2.jar
+2020-09-25 21:46:20,085 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator-annotation-processor/6.1.5.Final/hibernate-validator-annotation-processor-6.1.5.Final.jar
+2020-09-25 21:46:20,499 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/6.1.5.Final/hibernate-validator-6.1.5.Final.jar
+2020-09-25 21:46:23,203 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /digitalhouse-loja/src/main/java
+2020-09-25 21:46:23,204 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /digitalhouse-loja/src/main/resources
+2020-09-25 21:46:23,205 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /digitalhouse-loja/src/main/resources
+2020-09-25 21:46:23,207 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /digitalhouse-loja/src/test/java
+2020-09-25 21:46:27,646 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 21 sec
+2020-09-25 21:46:28,612 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar
+2020-09-25 21:46:29,213 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final-sources.jar
+2020-09-25 21:46:30,158 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.validation:validation-api:2.0.1.Final
+2020-09-25 21:46:30,903 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/6.1.5.Final/hibernate-validator-6.1.5.Final-sources.jar
+2020-09-25 21:46:31,957 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator/6.1.5.Final/hibernate-validator-6.1.5.Final-sources.jar
+2020-09-25 21:46:36,795 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.validator:hibernate-validator:6.1.5.Final
+2020-09-25 21:46:37,493 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2-sources.jar
+2020-09-25 21:46:38,262 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/jakarta/validation/jakarta.validation-api/2.0.2/jakarta.validation-api-2.0.2-sources.jar
+2020-09-25 21:46:38,638 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.validation:jakarta.validation-api:2.0.2
+2020-09-25 21:46:39,282 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator-annotation-processor/6.1.5.Final/hibernate-validator-annotation-processor-6.1.5.Final-sources.jar
+2020-09-25 21:46:39,918 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/validator/hibernate-validator-annotation-processor/6.1.5.Final/hibernate-validator-annotation-processor-6.1.5.Final-sources.jar
+2020-09-25 21:46:42,101 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.validator:hibernate-validator-annotation-processor:6.1.5.Final
+2020-09-25 21:46:42,112 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.validation:validation-api:2.0.1.Final
+2020-09-25 21:46:42,165 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.validator:hibernate-validator:6.1.5.Final
+2020-09-25 21:46:42,183 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for jakarta.validation:jakarta.validation-api:2.0.2
+2020-09-25 21:46:42,197 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate.validator:hibernate-validator-annotation-processor:6.1.5.Final
+2020-09-25 21:46:47,498 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:46:47,551 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 21:46:47,630 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 21:46:47,673 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:46:47,674 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-25 21:47:52,612 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-25 21:47:55,297 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.digitalhouse:digitalhouse-loja:0.0.1-SNAPSHOT @ C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\pom.xml.
+2020-09-25 21:47:58,617 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /digitalhouse-loja/src/main/java
+2020-09-25 21:47:58,618 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /digitalhouse-loja/src/main/resources
+2020-09-25 21:47:58,619 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /digitalhouse-loja/src/main/resources
+2020-09-25 21:47:58,620 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /digitalhouse-loja/src/test/java
+2020-09-25 21:47:59,595 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2020-09-25 21:48:08,085 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:48:08,086 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 21:48:08,110 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 21:48:08,122 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:48:08,122 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-25 21:49:06,793 [Worker-0: Launching Executing clean in C__Users_Pc_Downloads_digitalhouse-loja_digitalhouse-loja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja
+2020-09-25 21:49:06,794 [Worker-0: Launching Executing clean in C__Users_Pc_Downloads_digitalhouse-loja_digitalhouse-loja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean -Dstyle.color=always
+2020-09-25 21:49:12,350 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:49:12,357 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 21:49:12,365 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 21:49:12,376 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:49:12,377 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-25 21:49:32,645 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:49:32,649 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 21:49:32,653 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 21:49:32,657 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:49:32,657 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-25 21:49:48,678 [Worker-3: Launching Executing install in C__Users_Pc_Downloads_digitalhouse-loja_digitalhouse-loja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja
+2020-09-25 21:49:48,678 [Worker-3: Launching Executing install in C__Users_Pc_Downloads_digitalhouse-loja_digitalhouse-loja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2020-09-25 21:50:41,158 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:50:41,160 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 21:50:41,169 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 21:50:41,173 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 21:50:41,175 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-25 22:34:07,798 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-25 22:36:19,536 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.digitalhouse:digitalhouse-loja:0.0.1-SNAPSHOT @ C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\pom.xml.
+2020-09-25 22:36:23,540 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /digitalhouse-loja/src/main/java
+2020-09-25 22:36:23,543 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /digitalhouse-loja/src/main/resources
+2020-09-25 22:36:23,547 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /digitalhouse-loja/src/main/resources
+2020-09-25 22:36:23,549 [Worker-2: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /digitalhouse-loja/src/test/java
+2020-09-25 22:36:24,822 [Worker-2: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2020-09-25 22:36:32,922 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 22:36:32,930 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 22:36:32,960 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 22:36:32,978 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 22:36:32,978 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-25 22:36:53,073 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-25 22:36:54,269 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.digitalhouse:digitalhouse-loja:0.0.1-SNAPSHOT @ C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\pom.xml.
+2020-09-25 22:36:55,273 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /digitalhouse-loja/src/main/java
+2020-09-25 22:36:55,274 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /digitalhouse-loja/src/main/resources
+2020-09-25 22:36:55,275 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /digitalhouse-loja/src/main/resources
+2020-09-25 22:36:55,276 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /digitalhouse-loja/src/test/java
+2020-09-25 22:36:55,806 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2020-09-25 22:36:58,220 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 22:36:58,221 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 22:36:58,250 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 22:36:58,271 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 22:36:58,271 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-25 22:37:25,041 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 22:37:25,046 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 22:37:25,049 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 22:37:25,053 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 22:37:25,053 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-25 22:37:31,529 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 22:37:31,530 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 22:37:31,556 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-25 22:37:31,559 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 22:37:31,559 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-25 22:37:45,091 [Worker-0: Launching Executing clean in C__Users_Pc_Downloads_digitalhouse-loja_digitalhouse-loja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja
+2020-09-25 22:37:45,093 [Worker-0: Launching Executing clean in C__Users_Pc_Downloads_digitalhouse-loja_digitalhouse-loja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean -Dstyle.color=always
+2020-09-25 22:37:48,958 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 22:37:48,962 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 22:37:48,966 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 22:37:48,973 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 22:37:48,973 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-25 22:37:56,496 [Worker-0: Launching Executing install in C__Users_Pc_Downloads_digitalhouse-loja_digitalhouse-loja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja
+2020-09-25 22:37:56,497 [Worker-0: Launching Executing install in C__Users_Pc_Downloads_digitalhouse-loja_digitalhouse-loja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2020-09-25 22:38:24,227 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 22:38:24,229 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 22:38:24,233 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-25 22:38:24,236 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-25 22:38:24,236 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-28 20:56:51,418 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-09-28 21:18:08,722 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 21:18:08,799 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 21:18:08,834 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 21:18:08,840 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 21:18:08,841 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-28 21:20:04,136 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 21:20:04,142 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 21:20:04,176 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 21:20:04,180 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 21:20:04,180 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-28 21:38:50,755 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 21:38:50,758 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 21:38:51,031 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 21:38:51,038 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 21:38:51,039 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-28 22:15:34,967 [Worker-18: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.digitalhouse:digitalhouse-loja:0.0.1-SNAPSHOT @ C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\pom.xml.
+2020-09-28 22:15:38,534 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.0/modelmapper-2.3.0.pom
+2020-09-28 22:15:38,842 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.0/modelmapper-2.3.0.pom
+2020-09-28 22:15:39,015 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper-parent/2.3.0/modelmapper-parent-2.3.0.pom
+2020-09-28 22:15:39,199 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper-parent/2.3.0/modelmapper-parent-2.3.0.pom
+2020-09-28 22:15:40,166 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.0/modelmapper-2.3.0.jar
+2020-09-28 22:15:41,346 [Worker-19: Check for devtools] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.0/modelmapper-2.3.0.jar
+2020-09-28 22:15:41,594 [Worker-18: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.0/modelmapper-2.3.0.jar
+2020-09-28 22:15:43,030 [Worker-19: Check for devtools] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.0/modelmapper-2.3.0.jar
+2020-09-28 22:15:46,120 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 22:15:46,125 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-28 22:15:46,126 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-28 22:15:46,131 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 22:15:46,131 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-28 22:15:49,855 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.0/modelmapper-2.3.0-sources.jar
+2020-09-28 22:15:50,678 [Worker-23: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.0/modelmapper-2.3.0-sources.jar
+2020-09-28 22:15:56,086 [Worker-23: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.modelmapper:modelmapper:2.3.0
+2020-09-28 22:16:00,535 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 22:16:00,537 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 22:16:00,641 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-28 22:16:00,678 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-28 22:16:00,678 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-30 19:58:35,248 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-30 19:59:36,163 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.8/modelmapper-2.3.8.pom
+2020-09-30 19:59:36,760 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.8/modelmapper-2.3.8.pom
+2020-09-30 19:59:37,584 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper-parent/2.3.8/modelmapper-parent-2.3.8.pom
+2020-09-30 19:59:38,009 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper-parent/2.3.8/modelmapper-parent-2.3.8.pom
+2020-09-30 19:59:48,502 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.8/modelmapper-2.3.8.jar
+2020-09-30 19:59:50,029 [Worker-8: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.8/modelmapper-2.3.8.jar
+2020-09-30 19:59:51,084 [Worker-8: reload maven project] WARN  o.e.a.i.i.DefaultRepositoryEventDispatcher - Failed to dispatch repository event to org.eclipse.m2e.core.internal.embedder.EclipseRepositoryListener: null
+2020-09-30 20:00:11,003 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.digitalhouse:digitalhouse-loja:0.0.1-SNAPSHOT @ C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\pom.xml.
+2020-09-30 20:00:20,472 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-30 20:00:20,501 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-30 20:00:20,547 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-30 20:00:20,570 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-30 20:00:20,570 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-30 20:00:32,956 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.8/modelmapper-2.3.8-sources.jar
+2020-09-30 20:00:33,736 [Worker-18: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/modelmapper/modelmapper/2.3.8/modelmapper-2.3.8-sources.jar
+2020-09-30 20:00:33,783 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.digitalhouse:digitalhouse-loja:0.0.1-SNAPSHOT @ C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\pom.xml.
+2020-09-30 20:00:34,066 [Worker-18: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.modelmapper:modelmapper:2.3.8
+2020-09-30 20:00:38,003 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-30 20:00:38,011 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-30 20:00:38,049 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-30 20:00:38,082 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-30 20:00:38,083 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-30 20:00:42,920 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-30 20:00:42,921 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-30 20:00:42,921 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-09-30 20:00:42,925 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-30 20:00:42,925 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-09-30 20:00:58,758 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-30 20:00:58,761 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-30 20:00:58,779 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-09-30 20:00:58,786 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-09-30 20:00:58,786 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-10-01 19:13:35,601 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-10-01 19:17:12,126 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-10-01 19:17:23,276 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.digitalhouse:digitalhouse-loja:0.0.1-SNAPSHOT @ C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\pom.xml.
+2020-10-01 19:17:28,393 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /digitalhouse-loja/src/main/java
+2020-10-01 19:17:28,395 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /digitalhouse-loja/src/main/resources
+2020-10-01 19:17:28,397 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /digitalhouse-loja/src/main/resources
+2020-10-01 19:17:28,398 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /digitalhouse-loja/src/test/java
+2020-10-01 19:17:29,608 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 17 sec
+2020-10-01 19:17:39,619 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-01 19:17:39,650 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-01 19:17:39,673 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-01 19:17:39,687 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-01 19:17:39,688 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-10-01 19:18:28,140 [Worker-7: Launching Executing clean in C__Users_Pc_Downloads_digitalhouse-loja_digitalhouse-loja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja
+2020-10-01 19:18:28,146 [Worker-7: Launching Executing clean in C__Users_Pc_Downloads_digitalhouse-loja_digitalhouse-loja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean -Dstyle.color=always
+2020-10-01 19:18:32,748 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-01 19:18:32,771 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-01 19:18:32,778 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-01 19:18:32,784 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-01 19:18:32,784 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-10-01 19:19:55,476 [Worker-16: Launching Executing install in C__Users_Pc_Downloads_digitalhouse-loja_digitalhouse-loja] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja
+2020-10-01 19:19:55,476 [Worker-16: Launching Executing install in C__Users_Pc_Downloads_digitalhouse-loja_digitalhouse-loja] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2020-10-01 19:20:31,452 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-01 19:20:31,454 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-01 19:20:31,457 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-01 19:20:31,459 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-01 19:20:31,460 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources
+2020-10-01 19:22:27,650 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-10-01 19:24:35,210 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-01 19:24:35,217 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-01 19:24:35,244 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-10-01 19:24:35,249 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-10-01 19:24:35,250 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Pc\Downloads\digitalhouse-loja\digitalhouse-loja\src\test\resources

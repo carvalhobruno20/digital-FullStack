@@ -1,6 +1,6 @@
 import { CidadeModel } from './../model/cliente-model';
 import { CidadeEntity } from './../entity/cliente-entity';
-import { Mapper } from './../../../app/base/mapper';
+import { Mapper } from '../../../app/base/mapper';
 
 export class CidadeMapper extends Mapper<CidadeEntity, CidadeModel> {
 

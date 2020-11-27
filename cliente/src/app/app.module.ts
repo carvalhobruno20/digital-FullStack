@@ -1,39 +1,35 @@
-import { ClienteComponent } from './cliente/cliente.component';
-import { BrowserModule } from '@angular/platform-browser';
+import { MessageService } from 'primeng/api';
+import { TemplateModule } from './template/template.module';
+import { SegurancaModule } from './seguranca/seguranca.module';
+import { ClienteModule } from './cliente/cliente.module';
+import { BrowserModule, Title } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
-import { HttpClientModule } from '@angular/common/http';
-import { FormsModule, ReactiveFormsModule} from '@angular/forms';
-import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import {MessagesModule} from 'primeng/messages';
-import {MessageModule} from 'primeng/message';
-import {InputMaskModule} from 'primeng/inputmask';
-import {FileUploadModule} from 'primeng/fileupload';
 
-import {DropdownModule} from 'primeng/dropdown';
+import {ToastModule} from 'primeng/toast';
+import {ConfirmDialogModule} from 'primeng/confirmdialog';
+import {ConfirmationService} from 'primeng/api';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 @NgModule({
   declarations: [
-    AppComponent,
-    ClienteComponent
-
-  ],
+    AppComponent
+  ],  
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule,
-    FormsModule,
-    ReactiveFormsModule,
-    DropdownModule,
-    BrowserAnimationsModule,
-    MessagesModule,
-    MessageModule,
-    InputMaskModule,
-    FileUploadModule
+    ClienteModule,
+    SegurancaModule,
+    TemplateModule,
+    ToastModule,
+    ConfirmDialogModule    
   ],
-  providers: [],
+  providers: [
+    MessageService,
+    Title,
+    ConfirmationService    
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

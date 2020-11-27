@@ -1,6 +1,6 @@
-import { ImagemEntity } from './../entity/imagem-entity';
-import { Mapper } from './../../../app/base/mapper';
-import { ImagemModel } from '../model/imagem-model';
+import { ImagemEntity } from './../entity/cliente-entity';
+import { Mapper } from '../../../app/base/mapper';
+import { ImagemModel } from './../model/cliente-model';
 
 export class ImagemMapper extends Mapper<ImagemEntity, ImagemModel> {
 

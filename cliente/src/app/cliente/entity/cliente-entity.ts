@@ -8,7 +8,16 @@ export interface ClienteEntity {
     rg?: string;
     email?: string;
     endereco?: EnderecoEntity;
-    foto?: any;
+    foto?: ImagemEntity;
+}
+
+export interface ImagemEntity {
+    id?: number,
+    nomeArquivo?: string,
+    nomeArquivoCompleto?: string,
+    contentType?: string,
+    tamanho?: number,
+    url?: string
 }
 
 export interface EnderecoEntity {

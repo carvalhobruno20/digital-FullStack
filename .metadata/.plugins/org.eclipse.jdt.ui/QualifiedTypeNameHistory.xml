@@ -55,4 +55,6 @@
     <fullyQualifiedTypeName name="java.util.UUID"/>
     <fullyQualifiedTypeName name="java.nio.file.Path"/>
     <fullyQualifiedTypeName name="br.com.digitalhouse.model.Imagem"/>
+    <fullyQualifiedTypeName name="br.com.digitalhouse.email.EnvioEmailService"/>
+    <fullyQualifiedTypeName name="br.com.digitalhouse.email.Mensagem"/>
 </qualifiedTypeNameHistroy>

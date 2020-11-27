@@ -1,6 +1,6 @@
 import { ClienteModel } from './model/cliente-model';
 import { ClienteRepository } from './repository/cliente-repository';
-import { Component, ElementRef, OnInit, ViewChild } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { Message, MessageService } from 'primeng/api';
 
@@ -13,7 +13,6 @@ import { Message, MessageService } from 'primeng/api';
 })
 export class ClienteComponent implements OnInit {
 
-  @ViewChild('ref') ref: ElementRef;
   public formulario: FormGroup;
   estados: any[] = [];
   cidades: any[] = [];
@@ -169,7 +168,6 @@ export class ClienteComponent implements OnInit {
     this.cidades = [];
     this.estados = [];
     this.listarEstados();
-    (this.ref as any).clear();
   }
 
   enviarImagem(evento){

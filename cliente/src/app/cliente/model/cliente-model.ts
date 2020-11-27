@@ -8,7 +8,15 @@ export interface ClienteModel {
     rg?: string;
     email?: string;
     endereco?: EnderecoModel;
-    foto?: any;
+    foto?: ImagemModel;
+}
+
+export interface ImagemModel {
+    id?: number;
+    nomeArquivo?: string;
+    contentType?: string;
+    tamanho?: number;
+    url?: string;   
 }
 
 export interface EnderecoModel {

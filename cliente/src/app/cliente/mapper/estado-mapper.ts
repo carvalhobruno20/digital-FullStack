@@ -1,6 +1,6 @@
 import { EstadoModel } from './../model/cliente-model';
 import { EstadoEntity } from './../entity/cliente-entity';
-import { Mapper } from './../../../app/base/mapper';
+import { Mapper } from '../../../app/base/mapper';
 
 export class EstadoMapper extends Mapper<EstadoEntity, EstadoModel> {
 
